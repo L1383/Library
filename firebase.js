@@ -1,0 +1,1 @@
+// Firebase config will be placed here
