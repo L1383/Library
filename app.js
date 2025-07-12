@@ -1,1 +1,0 @@
-console.log('Standalone novel tracker loaded.');
